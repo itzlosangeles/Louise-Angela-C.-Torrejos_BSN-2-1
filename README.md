@@ -244,34 +244,22 @@
 
 
 
-<p style="font-size:20px;text-align:center;line-height:30px;margin-bottom:30px;margin-top:30;">Accidents will always happen despite any measure of preventative procedure and care.<br>Because of this, individuals who are properly trained and with the the correct equipment are a huge help in ensuring better safety for everyone.<br> Without proper First Aid, a simple injury could become severe and in some cases fatalities can occur as a result of lack of immediate medical treatment.</p> 
+<p style="font-size:20px;text-align:center;line-height:30px;margin-bottom:30px;">Accidents will always happen despite any measure of preventative procedure and care.<br>Because of this, individuals who are properly trained and with the the correct equipment are a huge help in ensuring better safety for everyone.<br> Without proper First Aid, a simple injury could become severe and in some cases fatalities can occur as a result of lack of immediate medical treatment.</p> 
 
 <img style="width: 33%;" src="white.jpg">
 <img style="width: 33%;" src="fa1.jpg">
 <img style="width: 33%;" src="white.jpg">
 
 
-<p style="font-size:20px;text-align:center;line-height:30px;margin-bottom:50px;background-color:red;color:white;padding: 15px 30px 15px 30px;margin-bottom:50;">First Aid does not just promote faster recovery, it helps save lives.</p>
+<p style="font-size:20px;text-align:center;line-height:30px;margin-bottom:30px;background-color:red;color:white;padding: 15px 30px 15px 30px;">First Aid does not just promote faster recovery it helps save lives.</p>
 	
-<p style="font-size:15px;text-align:left;line-height:30px;margin-bottom:-15px;"><b>References:</p></b>
+<p style="font-size:20px;text-align:left;line-height:30px;margin-bottom:10px;"><b>References:</p>
 
 <p style="font-size:15px;text-align:left;line-height:20px;margin-bottom:30px;">Schauf, C. (2023, April 28). 10 basic first aid training tips & procedures for any emergency. Uncharted Supply Company. https://unchartedsupplyco.com/en-au/blogs/the-four-pillars/basic-first-aid</p>
 
 
 
-<table>
 
-    <table border="2;" style="background-color:white;width:30%;"> 
-  <tr>
-    <th>Name</th>
-    <th>Course/Section</th>
-  </tr>
-  <tr>
-    <th>Louise Angela C. Torrejos</th>
-    <th>BSN 2-1</th>
-  </tr>
-  <tr>
-</table>
 
 
 
